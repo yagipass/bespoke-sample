@@ -1,9 +1,8 @@
-<<<<<<< HEAD
 node_modules
 src/bower_components
 public
 .tmp
-=======
+
 # Logs
 logs
 *.log
@@ -29,4 +28,3 @@ build/Release
 # Deployed apps should consider commenting this line out:
 # see https://npmjs.org/doc/faq.html#Should-I-check-my-node_modules-folder-into-git
 node_modules
->>>>>>> f89c67b45aa488383cb9d02df68a2e92c03dbc7a
