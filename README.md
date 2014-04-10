@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Bespoke.jsを使ってみた
 > A [Bespoke.js](http://markdalgleish.com/projects/bespoke.js) presentation, built with [generator-bespoke](https://github.com/markdalgleish/generator-bespoke)
 
@@ -12,13 +11,8 @@ First, ensure you have the following installed:
 
 Then, install dependencies and run the preview server:
 
+
 ```bash
 $ npm install && bower install
 $ grunt server
 ```
-=======
-bespoke-sample
-==============
-
-sample Bespoke.js
->>>>>>> f89c67b45aa488383cb9d02df68a2e92c03dbc7a
